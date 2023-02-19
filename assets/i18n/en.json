@@ -3,6 +3,7 @@
         "home": "Home",
         "team": "Team",
         "contact": "Contact",
+        "github": "Open Source",
         "footer": {
             "title": "Other Stuff",
             "contact": "Contact",
@@ -75,7 +76,7 @@
         "members": "Members",
         "csDegree": "Bachelor in Computer Science",
         "eeDegree": "Bachelor in Electrical Engineering",
-        "karl": "Das scheppert!",
+        "karl": "Engineering at its finest!",
         "philipp": "Python ist die beste Sprache, aber nicht immer.",
         "samu": "Das Problem hatte ich doch schon einmal!",
         "stefan": "Ist der Bug von dir? - Nein ich hab nur refactored",
