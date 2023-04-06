@@ -3,6 +3,7 @@
         "home": "Home",
         "team": "Team",
         "contact": "Kontakt",
+        "github": "Open Source",
         "footer": {
             "title": "Sonstiges",
             "contact": "Kontakt",
@@ -88,9 +89,8 @@
         "name": "Name",
         "company": "Firma",
         "email": "E-Mail",
-        "email.subject": "Kontaktanfrage",
         "message": "Nachricht",
-        "send": "Schreibe uns",
+        "send": "Senden",
         "emailRequired": "Geben Sie eine gültige E-Mail ein!",
         "couldNotSend": "Nachricht konnte nicht geschickt werden!",
         "privacyChecked": "Sie müssen der Datenschutzerklärung zustimmen!",
