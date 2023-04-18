@@ -3,7 +3,6 @@
         "home": "Home",
         "team": "Team",
         "contact": "Kontakt",
-        "github": "Open Source",
         "footer": {
             "title": "Sonstiges",
             "contact": "Kontakt",
@@ -89,8 +88,9 @@
         "name": "Name",
         "company": "Firma",
         "email": "E-Mail",
+        "email.subject": "Kontaktanfrage",
         "message": "Nachricht",
-        "send": "Senden",
+        "send": "Schreibe uns",
         "emailRequired": "Geben Sie eine gültige E-Mail ein!",
         "couldNotSend": "Nachricht konnte nicht geschickt werden!",
         "privacyChecked": "Sie müssen der Datenschutzerklärung zustimmen!",
@@ -100,10 +100,6 @@
             "second": "Datenschutzerklärung",
             "third": "zu"
         }
-    },
-    "openSource": {
-        "title": "Open-Source",
-        "description": "Wir sind stolz darauf, unser Engagement für die Open-Source-Community zu teilen. Wir glauben an die Kraft der Zusammenarbeit und Innovation, die mit Open-Source-Software einhergeht, und wir tragen aktiv zu dieser Community bei. Unser Team ist leidenschaftlich daran interessiert, hochwertige Open-Source-Projekte zu schaffen, die für alle zugänglich sind. Indem wir unser Wissen und unsere Fähigkeiten mit der Community teilen, hoffen wir, eine kollaborativere und transparentere Zukunft für die Technologie zu schaffen."
     },
     "legalNotice": {
         "title": "Impressum",
